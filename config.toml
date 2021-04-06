@@ -1,0 +1,4 @@
+animal="dog"
+name = "john"
+intmap = { first = 1, last = 2 }
+#ptrslice = ["foo", "bar", "baz"]
